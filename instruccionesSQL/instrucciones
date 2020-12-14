@@ -1,0 +1,13 @@
+php artisan make:migration Poetas --table
+
+php artisan make:migration Poemas --table
+
+php artisan make:migration Clientes --table
+
+php artisan make:migration Ventas --table
+
+php artisan make:migration Publicaciones --table
+
+php artisan make:migration Ventas_Publicaciones --table
+
+php artisan make:migration Poemas_Publicaciones --table

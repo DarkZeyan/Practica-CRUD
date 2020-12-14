@@ -1,0 +1,47 @@
+header{
+    border: 1.5px solid white;
+    border-radius: 14px;
+    background: rgb(69,255,48);
+    background: linear-gradient(90deg, rgba(69,255,48,1) 0%, rgba(14,235,173,1) 50%, rgba(0,215,255,1) 100%);
+    padding: 8px;
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.178);
+}
+main{
+    border: 2px solid white;
+    border-radius: 14px;
+    background: rgb(69,255,48);
+    background: linear-gradient(90deg, rgba(69,255,48,1) 0%, rgba(14,235,173,1) 50%, rgba(0,215,255,1) 100%);
+    padding: 80px;
+    box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.178);
+
+}
+footer{
+    border: 1.5px solid white;
+    border-radius: 14px;
+    background: rgb(69,255,48);
+    background: linear-gradient(90deg, rgba(69,255,48,1) 0%, rgba(14,235,173,1) 50%, rgba(0,215,255,1) 100%);
+    padding: 8px;
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.178);
+
+}
+h1,h3{
+    text-align: center;
+    color:white;
+    text-shadow: -1px 0 black, 0 2px black, 2px 0 black, 0 -1px black;
+}
+label{
+    font-size: 25px;
+    font-weight: 500;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+body{
+    margin-top: 30px;
+    background: rgb(69,255,48);
+    background: linear-gradient(90deg, rgba(69,255,48,1) 0%, rgba(14,235,173,1) 50%, rgba(0,215,255,1) 100%);
+}
+.letra{
+    font-size: 25px;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
